@@ -1,0 +1,11 @@
+com\yiren\springmvc\annotation\RequestMapping.class
+com\yiren\springmvc\dao\impl\UserDaoImpl.class
+com\yiren\springmvc\annotation\Controller.class
+com\yiren\springmvc\service\UserService.class
+com\yiren\springmvc\annotation\Qualifier.class
+com\yiren\springmvc\dao\UserDao.class
+com\yiren\springmvc\annotation\Repository.class
+com\yiren\springmvc\servlet\DispatcherServlet.class
+com\yiren\springmvc\service\impl\UserServiceImpl.class
+com\yiren\springmvc\annotation\Service.class
+com\yiren\springmvc\controller\UserController.class
