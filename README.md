@@ -1,7 +1,8 @@
 handwriting
 ---
-> 开源框架之手写系列，主要手写了springmvc,mybatis，rpc框架的实现，目前是跟着简书上一位[博主](https://www.jianshu.com/u/cb569cce501b)的博客进行练习，
-> 先学习一下后期在做功能性的扩展，有兴趣的同学可以参考博主的博客学习一下，加深一下自己对开源框架底层实现的掌握
+[![Build Status](https://travis-ci.org/wanghao4917/handwriting.svg?branch=master)](https://travis-ci.org/wanghao4917/handwriting)
+
+开源框架之手写系列，主要手写了springmvc,mybatis，rpc框架的实现，目前是跟着简书上一位[博主](https://www.jianshu.com/u/cb569cce501b)的博客进行练习，先学习一下后期在做功能性的扩展。有兴趣的同学可以参考博主的博客学习一下，加深一下自己对开源框架底层实现的掌握
 
 hw-springmvc
 ---
