@@ -29,10 +29,6 @@ import java.util.Map;
 })
 public class DispatcherServlet extends HttpServlet {
     /**
-     * 扫描的基础包路径
-     */
-    private String basePackage;
-    /**
      * 基础包路径下所带的包权限定类名
      */
     private List<String> packageNames = new ArrayList<>();
@@ -55,8 +51,7 @@ public class DispatcherServlet extends HttpServlet {
 
     @Override
     public void init(ServletConfig config) throws ServletException {
-        basePackage = config.getInitParameter("base-package");
-
+        String basePackage = config.getInitParameter("base-package");
         try {
             scanBasePackage(basePackage);
             instance(packageNames);

@@ -1,0 +1,4 @@
+com\yiren\service\IProductService.class
+com\yiren\service\bean\Product.class
+com\yiren\service\RpcInvocationHandler.class
+com\yiren\service\Main.class

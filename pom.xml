@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>hw-springmvc</module>
+        <module>hw-dynamicproxy</module>
+        <module>hw-rpc</module>
+        <module>hw-mybatis</module>
     </modules>
     <build>
         <plugins>
